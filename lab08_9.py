@@ -17,7 +17,7 @@ def number2(n):
     if(n%10==2):
         return 1+number2(n/10)
     
-    print "hhh"
+    print "hhh..."
     
     return number2(n/10)
 
